@@ -91,16 +91,3 @@ function modificarGasto(posicion){
     boton.onclick = clickBoton;
   };
 }
-
-/////////////////////////////////////////////////////////////////////////////////////
-//APUNTES
-
-//SOBRE ARREGLOS
-//.push se usa para agregar datos a una lista y los arreglos se crean con 
-// []
-
-//SOBRE FOREACH
-//Hace lo mismo que un bucle for 
-
-//SOBRE `
-//tambien sirve para concatenar aunque se considera un string template
